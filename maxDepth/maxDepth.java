@@ -13,6 +13,7 @@
  *     }
  * }
  */
+/**Bottom-up approach */
 class Solution {
     public int maxDepth(TreeNode root) {
         return maxDepth(root, 0);
