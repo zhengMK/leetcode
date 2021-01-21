@@ -1,6 +1,6 @@
 // This priority queue method is reasonably fast and memory-efficient. (Beats over 50% in terms of both time and space complexity)
 // To use the built-in priority queue in java, need to override the comparator method, supporting comparison between nodes being composed of names of common restaurant and the sum of indexes in list1 and list2.
-// Time complexity: O(M+N) for traversing list1 and list2, space complexity: O(M) for hashmap storing strings and index of list1.
+// Time complexity: O(M+NlogN) for traversing list1 and constructing list2, space complexity: O(M) for hashmap storing strings and index of list1.
 class Solution {
     public String[] findRestaurant(String[] list1, String[] list2) {
         Map<String, Integer> map_lst1 = new HashMap<>();
