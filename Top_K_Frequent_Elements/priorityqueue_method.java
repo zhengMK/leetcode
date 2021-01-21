@@ -1,4 +1,7 @@
 // Use a maximum priority queue to tack the most frequent element in the array.
+// Compared to the quickselect method, this is more intuitive.
+// Time complexity is bouned by the construction of the pq: O(NlogN) (This might be the hint provided by LeetCode)
+// Space complexity: O(N)
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
