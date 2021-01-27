@@ -1,4 +1,4 @@
-// Time and space complexity are the same as the search operation: O(logN) and O(1)
+// Time and space complexity are the same as the search operation: O(H) and O(1) where H is the height of the BST.
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
