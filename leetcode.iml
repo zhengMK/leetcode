@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Circular Queue" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/add_binary" />
+      <excludeFolder url="file://$MODULE_DIR$/Best Time to Buy and Sell Stock" />
+      <excludeFolder url="file://$MODULE_DIR$/Intersection of Two Arrays II" />
+      <excludeFolder url="file://$MODULE_DIR$/Construct_binary_tree_from_inorder_and_postorder" />
+      <excludeFolder url="file://$MODULE_DIR$/Construct_binary_tree_from_preorder_and_inorder" />
+      <excludeFolder url="file://$MODULE_DIR$/Contains Duplicate II" />
+      <excludeFolder url="file://$MODULE_DIR$/Design of the Double Linked List" />
+      <excludeFolder url="file://$MODULE_DIR$/Find Minimum in Rotated Sorted Array" />
+      <excludeFolder url="file://$MODULE_DIR$/Find Peak Element" />
+      <excludeFolder url="file://$MODULE_DIR$/Find the Duplicate Number in Array" />
+      <excludeFolder url="file://$MODULE_DIR$/First Bad Version" />
+      <excludeFolder url="file://$MODULE_DIR$/First Unique Character in a String  Solution" />
+      <excludeFolder url="file://$MODULE_DIR$/Group_Anagrams" />
+      <excludeFolder url="file://$MODULE_DIR$/Guess Number Higher Or Lower" />
+      <excludeFolder url="file://$MODULE_DIR$/happy_number" />
+      <excludeFolder url="file://$MODULE_DIR$/Implement Trie (Prefix Tree)" />
+      <excludeFolder url="file://$MODULE_DIR$/Insert Into a Binary Search Tree" />
+      <excludeFolder url="file://$MODULE_DIR$/Binary Search" />
+      <excludeFolder url="file://$MODULE_DIR$/Binary Search Tree Iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/Binary Tree BFS" />
+      <excludeFolder url="file://$MODULE_DIR$/Intersection_Of_Two_Arrays" />
+      <excludeFolder url="file://$MODULE_DIR$/Isomorphic Strings" />
+      <excludeFolder url="file://$MODULE_DIR$/Jewels and Stones" />
+      <excludeFolder url="file://$MODULE_DIR$/Largest_Number_At_Least_Twice" />
+      <excludeFolder url="file://$MODULE_DIR$/Longest Substring Without Repeating Characters" />
+      <excludeFolder url="file://$MODULE_DIR$/longest_common_prefix" />
+      <excludeFolder url="file://$MODULE_DIR$/Lowest Common Ancestor" />
+      <excludeFolder url="file://$MODULE_DIR$/Map Sum Paris" />
+      <excludeFolder url="file://$MODULE_DIR$/maxDepth" />
+      <excludeFolder url="file://$MODULE_DIR$/Maximum Depth of N-ary Tree" />
+      <excludeFolder url="file://$MODULE_DIR$/Minimum Index Sum of Two Lists" />
+      <excludeFolder url="file://$MODULE_DIR$/N-ary Tree Level Order Traversal" />
+      <excludeFolder url="file://$MODULE_DIR$/N-ary Tree Postorder Traversal" />
+      <excludeFolder url="file://$MODULE_DIR$/N-ary Tree Preorder Traversal" />
+      <excludeFolder url="file://$MODULE_DIR$/Number of Good Pairs" />
+      <excludeFolder url="file://$MODULE_DIR$/Path Sum" />
+      <excludeFolder url="file://$MODULE_DIR$/pivot point" />
+      <excludeFolder url="file://$MODULE_DIR$/Plus One" />
+      <excludeFolder url="file://$MODULE_DIR$/Populating Next Right Pointers in Each Node" />
+      <excludeFolder url="file://$MODULE_DIR$/Replace Words" />
+      <excludeFolder url="file://$MODULE_DIR$/reverse_str" />
+      <excludeFolder url="file://$MODULE_DIR$/Richest Customer Wealth" />
+      <excludeFolder url="file://$MODULE_DIR$/Rotate List" />
+      <excludeFolder url="file://$MODULE_DIR$/Running Sum of 1d Array" />
+      <excludeFolder url="file://$MODULE_DIR$/Search in Binary Search Tree" />
+      <excludeFolder url="file://$MODULE_DIR$/shuffle array" />
+      <excludeFolder url="file://$MODULE_DIR$/Single_Number" />
+      <excludeFolder url="file://$MODULE_DIR$/sqrt" />
+      <excludeFolder url="file://$MODULE_DIR$/strStr()" />
+      <excludeFolder url="file://$MODULE_DIR$/symmetric tree" />
+      <excludeFolder url="file://$MODULE_DIR$/Top_K_Frequent_Elements" />
+      <excludeFolder url="file://$MODULE_DIR$/Tree Traversal" />
+      <excludeFolder url="file://$MODULE_DIR$/Validate Binary Search Tree" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
